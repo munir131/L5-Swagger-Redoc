@@ -1,7 +1,7 @@
 {
   "name": "munir131/L5-Swagger-Redoc",
   "description": "Swagger integration to Laravel 5 using the Rebilly Redoc UI.",
-  "version": "6.1",
+  "version": "6.2",
   "keywords": [
     "laravel",
     "swagger",
