@@ -1,6 +1,7 @@
 {
-  "name": "imikemiller/l5-swagger-redoc",
+  "name": "munir131/L5-Swagger-Redoc",
   "description": "Swagger integration to Laravel 5 using the Rebilly Redoc UI.",
+  "version": "6.1",
   "keywords": [
     "laravel",
     "swagger",
@@ -9,12 +10,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Darius Matulionis",
-      "email": "darius@matulionis.lt"
-    },
-    {
-      "name": "Mike Miller",
-      "email": "iam@mikemiller.uk"
+      "name": "munir",
+      "email": "munir@improwised.com"
     }
   ],
   "require": {
